@@ -7,6 +7,7 @@ Lab assignments for the **Cognitive Computing (UCS420)** course.
 | Folder | Description |
 |--------|-------------|
 | `assignment-1/` | Assignment 1 |
+| `assignment-2/` | Assignment 2: Lists, Tuples, Sets, Dictionaries & Random module |
 
 ## 🛠️ Tech Stack
 
@@ -16,3 +17,4 @@ Lab assignments for the **Cognitive Computing (UCS420)** course.
 
 - **Course**: Cognitive Computing
 - **Code**: UCS420
+
