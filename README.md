@@ -13,15 +13,4 @@ Lab assignments for the **Cognitive Computing (UCS420)** course.
 | `assignment-5/` | Assignment 5: NumPy Arrays, Mathematical Operations & Matrix Manipulations |
 | `assignment-6/` | Assignment 6: Data Visualization with Matplotlib & Seaborn |
 
-## 🛠️ Tech Stack
 
-- Python (Jupyter Notebooks)
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-## 📌 Course Info
-
-- **Course**: Cognitive Computing
-- **Code**: UCS420
