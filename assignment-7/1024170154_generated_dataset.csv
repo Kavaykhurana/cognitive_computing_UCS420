@@ -1,0 +1,17 @@
+Ticket_ID,Ticket_Text
+T01,Printer is running slowly while uploading the file. I don't know what changed.
+T02,Python stopped responding after the latest update. Please help.
+T03,The email failed to open. It works on another computer.
+T04,The server was working yesterday. I don't know what changed.
+T05,VPN keeps asking for login when I use mobile hotspot. It works on another computer.
+T06,The printer won't print; it isn't jammed.
+T07,I keep getting logged out of the server before the assignment deadline. It works on another computer.
+T08,Ticket #4521 is still open.
+T09,The state-of-the-art lab (Lab-3) is closed.
+T10,The server was working yesterday. Please resolve it.
+T11,Email was working yesterday since yesterday. I don't know what changed.
+T12,The server was working yesterday. The same problem occurs again.
+T13,The email keeps asking for login. This is urgent.
+T14,The printer has stopped syncing. Is there another solution?
+T15,The Python stopped responding. I don't know what changed.
+T16,Python 3.12 was installed yesterday.
