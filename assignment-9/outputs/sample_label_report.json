@@ -1,0 +1,75 @@
+{
+  "brand": "Combiflam",
+  "composition": [
+    [
+      "ibuprofen",
+      400,
+      "mg"
+    ],
+    [
+      "paracetamol",
+      325,
+      "mg"
+    ]
+  ],
+  "alerts": [
+    "EXPIRED 518 days ago \u2014 do not use; return it to a pharmacy."
+  ],
+  "notes": [
+    "ibuprofen: 1200 mg/day per label = 50% of adult max 2400 mg.",
+    "paracetamol: 975 mg/day per label = 24% of adult max 4000 mg."
+  ],
+  "expiry": "05/2025",
+  "expiry_status": "EXPIRED",
+  "days_to_expiry": -518,
+  "units_per_day": 3.0,
+  "uses": [
+    "fever and mild-to-moderate pain",
+    "pain, inflammation and fever"
+  ],
+  "quality_ok": true,
+  "quality_issues": [],
+  "quality": {
+    "sharpness": 435.1,
+    "overexposed_ratio": 0.128,
+    "brightness": 172.6
+  },
+  "label_localised": true,
+  "fields": {
+    "brand": "Combiflam",
+    "generics": [
+      "ibuprofen",
+      "paracetamol"
+    ],
+    "strength": "400 mg",
+    "expiry": "05/2025",
+    "mfg": "05/2023",
+    "batch": "ZV23N648",
+    "dosage_text": "1 tablet three times a day after food. Or as directed by the physician.",
+    "units_per_dose": 1.0,
+    "doses_per_day": 3.0,
+    "schedule_h": false,
+    "warnings": [
+      "Store below 30\u00b0C. Protect from light. Exp. Date: 05/25",
+      "Keep out of reach of children."
+    ],
+    "manufacturer": "Kaveri Life Sciences, Hyderabad"
+  },
+  "field_agreement": {
+    "brand": 1.0,
+    "generics": 1.0,
+    "strength": 1.0,
+    "expiry": 1.0,
+    "mfg": 1.0,
+    "batch": 1.0,
+    "dosage_text": 1.0,
+    "units_per_dose": 1.0,
+    "doses_per_day": 1.0,
+    "schedule_h": 1.0,
+    "warnings": 0.67,
+    "manufacturer": 1.0
+  },
+  "read_confidence": 1.0,
+  "retake_advice": [],
+  "cabinet_alerts": []
+}

@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+opencv-python
+pillow
+scikit-image
+scikit-learn
+torch
+torchvision
+pytesseract
+rapidfuzz
+kagglehub
+easyocr        # optional, better OCR on curved labels
+gTTS           # optional, spoken summary
+google-genai   # optional, Gemini responses (set GEMINI_API_KEY)
+roboflow       # optional, real bottle photos (set ROBOFLOW_API_KEY)

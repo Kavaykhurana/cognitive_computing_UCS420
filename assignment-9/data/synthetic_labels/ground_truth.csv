@@ -1,0 +1,61 @@
+path,severity,brand,strength,batch,expiry,mfg,expired
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_000.jpg,clean,Dolo 650,650 mg,EC26U977,12/2028,12/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_001.jpg,clean,Crocin Advance,500 mg,SN269666,08/2028,08/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_002.jpg,clean,Combiflam,400 mg,ZV23N648,05/2025,05/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_003.jpg,clean,Brufen 400,400 mg,RL23J278,05/2025,05/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_004.jpg,clean,Cetzine,10 mg,KY253982,06/2028,06/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_005.jpg,clean,Allegra 120,120 mg,YP26A434,01/2029,01/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_006.jpg,clean,Pan 40,40 mg,JW25K302,08/2027,08/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_007.jpg,clean,Glycomet 500,500 mg,GX230757,06/2026,06/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_008.jpg,clean,Ecosprin 75,75 mg,CT257328,11/2028,11/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_009.jpg,clean,Azithral 500,500 mg,CM25C419,01/2027,01/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_010.jpg,clean,Mox 500,500 mg,HP25G700,10/2027,10/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_011.jpg,clean,Atorva 10,10 mg,CY24S997,09/2027,09/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_012.jpg,clean,Amlong 5,5 mg,VA246762,05/2027,05/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_013.jpg,clean,Thyronorm 50,50 mcg,VR239359,08/2026,08/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_014.jpg,clean,Montair LC,10 mg,JG246972,03/2026,03/2024,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_015.jpg,clean,Telma 40,40 mg,DK24E981,03/2027,03/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_016.jpg,clean,Omez 20,20 mg,GH232131,09/2025,09/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_017.jpg,clean,Dolo 650,650 mg,DT25H623,06/2027,06/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_018.jpg,clean,Crocin Advance,500 mg,FH25K363,03/2028,03/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/clean/clean_019.jpg,clean,Combiflam,400 mg,KL246448,06/2027,06/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_000.jpg,mild,Allegra 120,120 mg,AF26F753,01/2028,01/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_001.jpg,mild,Pan 40,40 mg,NF23V635,04/2026,04/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_002.jpg,mild,Glycomet 500,500 mg,BR25A447,04/2028,04/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_003.jpg,mild,Ecosprin 75,75 mg,TU23U180,12/2025,12/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_004.jpg,mild,Azithral 500,500 mg,FZ242765,02/2027,02/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_005.jpg,mild,Mox 500,500 mg,WD265145,05/2028,05/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_006.jpg,mild,Atorva 10,10 mg,RA25Z593,11/2027,11/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_007.jpg,mild,Amlong 5,5 mg,VF25G446,04/2028,04/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_008.jpg,mild,Thyronorm 50,50 mcg,BL23Y508,07/2026,07/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_009.jpg,mild,Montair LC,10 mg,JU25E974,10/2027,10/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_010.jpg,mild,Telma 40,40 mg,LM26J223,01/2029,01/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_011.jpg,mild,Omez 20,20 mg,YH272278,02/2029,02/2027,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_012.jpg,mild,Dolo 650,650 mg,SH23L151,06/2025,06/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_013.jpg,mild,Crocin Advance,500 mg,SJ24K983,02/2027,02/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_014.jpg,mild,Combiflam,400 mg,CJ22W896,09/2025,09/2022,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_015.jpg,mild,Brufen 400,400 mg,CB26T925,06/2028,06/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_016.jpg,mild,Cetzine,10 mg,YY26K312,01/2028,01/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_017.jpg,mild,Allegra 120,120 mg,NB27G209,03/2029,03/2027,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_018.jpg,mild,Pan 40,40 mg,RG23R981,04/2026,04/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/mild/mild_019.jpg,mild,Glycomet 500,500 mg,DS26A874,01/2028,01/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_000.jpg,hard,Atorva 10,10 mg,PX252243,09/2028,09/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_001.jpg,hard,Amlong 5,5 mg,RW25C329,06/2028,06/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_002.jpg,hard,Thyronorm 50,50 mcg,ZL224738,06/2025,06/2022,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_003.jpg,hard,Montair LC,10 mg,WH23N752,05/2025,05/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_004.jpg,hard,Telma 40,40 mg,XT24Y352,05/2026,05/2024,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_005.jpg,hard,Omez 20,20 mg,EJ25W217,01/2028,01/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_006.jpg,hard,Dolo 650,650 mg,HE24V783,05/2027,05/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_007.jpg,hard,Crocin Advance,500 mg,VZ23T331,09/2025,09/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_008.jpg,hard,Combiflam,400 mg,TH24A180,08/2027,08/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_009.jpg,hard,Brufen 400,400 mg,JA25X575,09/2027,09/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_010.jpg,hard,Cetzine,10 mg,VA25K262,09/2028,09/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_011.jpg,hard,Allegra 120,120 mg,VF242767,07/2027,07/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_012.jpg,hard,Pan 40,40 mg,BK24F115,08/2026,08/2024,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_013.jpg,hard,Glycomet 500,500 mg,BV24N710,04/2027,04/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_014.jpg,hard,Ecosprin 75,75 mg,AF243593,05/2027,05/2024,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_015.jpg,hard,Azithral 500,500 mg,KD25A983,09/2027,09/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_016.jpg,hard,Mox 500,500 mg,SY25W758,09/2027,09/2025,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_017.jpg,hard,Atorva 10,10 mg,LG239850,05/2025,05/2023,True
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_018.jpg,hard,Amlong 5,5 mg,ZF26M656,03/2028,03/2026,False
+/Users/kavaykhurana/Desktop/cognitive_computing_UCS420/assignment-9/data/synthetic_labels/hard/hard_019.jpg,hard,Thyronorm 50,50 mcg,AP23N953,10/2025,10/2023,True

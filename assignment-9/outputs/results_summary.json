@@ -1,0 +1,11 @@
+{
+  "part_A_field_accuracy_%": {
+    "brand": 98.3,
+    "strength": 98.3,
+    "expiry": 93.3,
+    "batch": 95.0,
+    "expired_flag": 93.3
+  },
+  "part_B_test_accuracy": 0.1335,
+  "part_B_macro_f1": 0.0336
+}
